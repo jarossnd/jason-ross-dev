@@ -1,4 +1,5 @@
 import React from 'react';
+import '@fontsource/roboto-mono';
 import Layout from './src/components/Layout';
 import './prismjs/themes/prism-custom.css';
 

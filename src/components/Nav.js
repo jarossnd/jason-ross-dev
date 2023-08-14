@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
 import { Link } from 'gatsby';
 import styled from 'styled-components';
-//import 'typeface-roboto-mono';
+// import 'typeface-roboto-mono';
 
-const NavStyles = styled.nav`
-`;
+const NavStyles = styled.nav``;
 
 class Nav extends Component {
   state = {
