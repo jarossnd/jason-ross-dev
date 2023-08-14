@@ -1,11 +1,4 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby Minimal Starter
-</h1>
+# Jason Ross Website
 
 ## 🚀 Quick start
 
@@ -41,6 +34,21 @@
     - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
     - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
     - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+
+## 📦 Packages
+
+## These packages were installed during initial setup on 8/13/2023
+
+- gatsby-plugin-google-gtag
+- gatsby-plugin-image
+- gatsby-plugin-sitemap
+- gatsby-plugin-manifest
+- gatsby-plugin-mdx
+
+## Netlify Packages
+
+- npm install -D gatsby-plugin-netlify
+- 
 
 ## 🚀 Quick start (Netlify)
 
